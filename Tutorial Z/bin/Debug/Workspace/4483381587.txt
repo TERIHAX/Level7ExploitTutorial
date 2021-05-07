@@ -1,0 +1,1 @@
+{"Tracers":true,"Visuals Color":"Rainbow","Aim Part":"Head","ESP":true,"Show FOV":true,"Team Check":true,"Aimbot":true,"Smoothness":"7","FOV Radius":"800"}
